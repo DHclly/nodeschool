@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "after": "^0.8.2",
+    "async": "^2.0.1",
+    "aysnc": "^1.4.4",
+    "bl": "^1.1.2",
+    "concat-stream": "^1.5.2",
+    "readable-stream": "^2.1.5",
+    "through2-map": "^2.0.0"
+  }
+}
