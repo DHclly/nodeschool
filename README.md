@@ -20,3 +20,6 @@ the practice answer at http://nodeschool.io
 4.通过cnpm安装javascripting
 
 	cnpm install -g javascripting
+5.通过cnpm安装learnyounode
+
+	npm install -g learnyounode
