@@ -22,4 +22,13 @@ the practice answer at http://nodeschool.io
 	cnpm install -g javascripting
 5.通过cnpm安装learnyounode
 
-	npm install -g learnyounode
+	cnpm install -g learnyounode
+6.通过cnpm安装git-it
+
+	cnpm install -g git-it
+
+##ToDo List
+
+- [x] javascripting
+- [x] learnyounode
+- [x] git-it
