@@ -26,21 +26,26 @@ node -v
 
 ```bash
 npm install -g pnpm
+pnpm setup
 ```
 
-4.通过pnpm安装javascripting
+## 通过pnpm安装javascripting
 
 ```bash
 pnpm install -g javascripting
+
+javascripting -l zh-cn
+
+javascripting
 ```
 
-5.通过 pnpm 安装learnyounode
+## 通过 pnpm 安装learnyounode
 
 ```bash
 pnpm install -g learnyounode
 ```
 
-6.通过 pnpm 安装 git-it
+## 通过 pnpm 安装 git-it
 
 ```bash
 pnpm install -g git-it
