@@ -1,33 +1,52 @@
 # nodeschool
+
 the practice answer at http://nodeschool.io
 
 网站地址：http://nodeschool.io/zh-cn/
 
-安装环境：
+## 安装 node 环境
 
 1.下载nodejs,地址：
 
-	https://nodejs.org/zh-cn/  
+https://nodejs.org/zh-cn/  
 
-	http://nodejs.cn/
+http://nodejs.cn/
 
 2.安装nodejs
 
-3.通过npm安装cnpm
+安装后执行
 
-	npm install -g cnpm
+```bash
+node -v
+```
 
-4.通过cnpm安装javascripting
+查看 node 版本
 
-	cnpm install -g javascripting
-5.通过cnpm安装learnyounode
+3.通过 npm 安装 pnpm
 
-	cnpm install -g learnyounode
-6.通过cnpm安装git-it
+```bash
+npm install -g pnpm
+```
 
-	cnpm install -g git-it
+4.通过pnpm安装javascripting
 
-##ToDo List
+```bash
+pnpm install -g javascripting
+```
+
+5.通过 pnpm 安装learnyounode
+
+```bash
+pnpm install -g learnyounode
+```
+
+6.通过 pnpm 安装 git-it
+
+```bash
+pnpm install -g git-it
+```
+
+## ToDo List
 
 - [x] javascripting
 - [x] learnyounode
