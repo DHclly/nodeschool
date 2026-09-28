@@ -43,6 +43,10 @@ javascripting
 
 ```bash
 pnpm install -g learnyounode
+
+learnyounode -l zh-cn
+
+learnyounode
 ```
 
 ## 通过 pnpm 安装 git-it
