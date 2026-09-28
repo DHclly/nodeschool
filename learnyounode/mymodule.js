@@ -5,9 +5,9 @@ module.exports=function(folderName,extname,cb){
         if(err){
             return cb(err);
         }
-        list.filter(function(file){
+        var filtered = list.filter(function(file){
             return path.extname(file)==='.'+extname;
         });
-        cb(null,list);
+        cb(null,filtered);
     })
 }

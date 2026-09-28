@@ -9,7 +9,6 @@ function getFormatDate(){
         return num;
     }
 }
-console.log(getFormatDate());
 net.createServer(function(socket){
     socket.end(getFormatDate());
 }).listen(process.argv[2]);
